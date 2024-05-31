@@ -1,0 +1,6 @@
+>string_1
+ACGTACGT
+>string_2
+GTACGTCA
+>string_3
+ACG
